@@ -1,0 +1,97 @@
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Trending {
+    float: left;
+    text-align: center;
+    width: 900px;
+}
+
+#YourStyle {
+    float: left;
+    text-align: center;
+    width: 900px;
+}
+
+#about {
+    float: right;
+    text-align: center;
+    width: 450px;
+    background-color: lightblue;
+    border: solid;
+    border-width: 7px;
+    border-radius: 125px;
+    margin-top: 225px;
+    padding-top: 20px;
+    margin-right: 100px;
+    margin-bottom: 200px;
+}
+
+#about ul{
+    font-size: 18pt;
+    padding-right: 50px;
+    font-style: italic;
+    color: blueviolet;
+}
+
+body ul {
+    list-style: none;
+}
+
+body ul li{
+    display: inline-block;
+}
+
+nav {
+    text-align: right;
+    font-size: 20pt;
+    text-decoration: none;
+    color:lavenderblush;
+    position: absolute;
+    width: 90%;
+}
+
+body a{
+    text-decoration: none;
+    font-weight: bold;
+} 
+
+#footer{
+    padding-top: 200px;
+    text-align: center;
+    width: 100%;
+    color: lavenderblush;
+    padding-left: 500px;
+}
+
+body h1{
+    font-size: 60pt;
+    font-style: italic; 
+    font-style: bold;
+    color: rgb(204, 102, 255);
+    padding-left: 50px;
+}
+
+body h3{
+    font-size: 32pt;
+    font-style: italic; 
+    font-style: bold;
+    color: rgb(255, 255, 102);
+}
+
+body h2{
+    font-size: 25pt;
+    font-style: italic; 
+    font-style: bold;
+    color: rgb(204, 102, 255);
+}
+
+#header {
+    font-size: 25pt;
+}
+#headerlinks{
+    color: lavenderblush;
+    text-align: center;
+}
